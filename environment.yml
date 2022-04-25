@@ -1,0 +1,12 @@
+name: liver
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - nodejs
+  - ipywidgets
+  - pandas
+  - tqdm
+  - openpyxl
