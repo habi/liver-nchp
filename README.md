@@ -2,4 +2,5 @@
 
 # liver-nchp
 
-A [Jupyter](https://jupyter.org/) notebook to explain our work for the manuscript on non-cirrhotic portal hypertension hepatic vascular remodeling in the liver.
+A [Jupyter](https://jupyter.org/) notebook to pull all the relevant data out of the logfiles from several different scans.
+We are using this for a paragraph in a manuscript on non-cirrhotic portal hypertension hepatic vascular remodeling in the liver.
